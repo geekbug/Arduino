@@ -1,2 +1,2 @@
 # Arduino
-Repository of Arduino basic sketch
+Repository of Arduino basic sketches
